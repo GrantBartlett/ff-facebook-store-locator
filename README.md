@@ -1,4 +1,4 @@
 #F&F Facebook Store Locator
 
 ## About
-git
+Simple html page containing bootstrap and images for F&F's Facebook page.
